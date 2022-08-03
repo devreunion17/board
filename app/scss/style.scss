@@ -4,4 +4,9 @@
 @import 'global';
 
 
+.rad{
+  display: flex;
+  justify-content: space-around
+}
+
 @import 'media';
